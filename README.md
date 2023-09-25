@@ -1,3 +1,3 @@
 # datascience
 lesson test ^_^  
-today is Tuesday
+today is Tuesday  
